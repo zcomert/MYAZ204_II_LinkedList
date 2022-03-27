@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DataStructure.LinkedList.SinglyLinkedList.SinglyLinkedList&lt;T&gt;">
+    <Position X="2.75" Y="1.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAiIABAAAAAAAJAAAAAAJAQIAAAQAAAEAAgAAAAAAAA=</HashCode>
+      <FileName>SinglyLinkedList\SinglyLinkedList.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DataStructure.LinkedList.SinglyLinkedList.SinglyLinkedListEnumerator&lt;T&gt;">
+    <Position X="5.5" Y="1.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAACAABIAAAACAAAAAAAAAAAAAoAAAAAAAAAA=</HashCode>
+      <FileName>SinglyLinkedList\SinglyLinkedListEnumerator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DataStructure.LinkedList.SinglyLinkedList.SinglyLinkedListNode&lt;T&gt;">
+    <Position X="5.5" Y="4.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>SinglyLinkedList\SinglyLinkedListNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
